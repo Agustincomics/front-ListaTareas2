@@ -1,0 +1,40 @@
+{
+  "tareas": [
+    {
+      "nombreTarea": "Tarea1",
+      "DescripcionTarea": "BLA BLA BLA1",
+      "id": 1
+    },
+    {
+      "nombreTarea": "Tarea2",
+      "DescripcionTarea": "BLA BLA BLA2",
+      "id": 2
+    },
+    {
+      "nombreTarea": "Tarea3",
+      "DescripcionTarea": "BLA BLA BLA3",
+      "id": 3
+    },
+    {
+      "nombreTarea": "Rolling",
+      "DescripcionTarea": "Terminar punto 1",
+      "id": 4
+    },
+    {
+      "nombreTarea": "trabajo2",
+      "DescripcionTarea": "botardo",
+      "id": 6
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "nombreUsuario": "admin",
+      "email": "adim@gmail.com",
+      "contra": "Yjp6g3g3"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
